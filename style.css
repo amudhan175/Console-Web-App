@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+img {
+    width: 1000px;
+    height: 550px;
+    border: 10px solid transparent;
+    border-image: url(border.png) 30 round;
+}
